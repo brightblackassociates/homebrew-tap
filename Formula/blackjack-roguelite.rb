@@ -2,7 +2,7 @@ class BlackjackRoguelite < Formula
   desc "Blackjack roguelite card combat game for the terminal"
   homepage "https://github.com/brightblackassociates/blackjack-roguelite"
   url "https://github.com/brightblackassociates/blackjack-roguelite/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0fbc9a234d0390a838b872adeacb0ec1211217605449402fa32b98c04d9678d8"
+  sha256 "11d87bc73eb78f1db616f1086c2654c30c0c978355771256ce798efe7e07867e"
 
   depends_on "python@3"
 
